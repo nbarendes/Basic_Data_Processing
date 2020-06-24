@@ -9,7 +9,7 @@
 - Employ the pandas library to import and manipulate data
 - Apply indexing and querying to DataFrames, and deal with missing values
 
-###### [Advanced](Advanced Python Pandas.ipynb) 
+###### [Advanced python Pandas]() 
 
 - Apply merge and join on DataFrames
 - Employ slicing and indexing on DataFrames
